@@ -1,3 +1,5 @@
+👋 Hello there! I'm Harsh Kadakia
+__________________________________________________________________________________________________________________________
 AI Software Developer | Data Engineering | ML Systems | Product-Focused Technologist
 Building intelligent systems that automate workflows, enhance decision-making, and deliver measurable business impact.
 __________________________________________________________________________________________________________________________
